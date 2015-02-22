@@ -1,84 +1,84 @@
 # Code Book
 
-*.Data_set
-*.Activity_label
-*.timeDomain_BodyAcc_mean_X
-.....Normalized ([0,1])
-*.timeDomain_BodyAcc_mean_Y
-*.timeDomain_BodyAcc_mean_Z
-*.timeDomain_GravityAcc_mean_X
-*.timeDomain_GravityAcc_mean_Y
-*.timeDomain_GravityAcc_mean_Z
-*.timeDomain_BodyAccJerk_mean_X
-*.timeDomain_BodyAccJerk_mean_Y
-*.timeDomain_BodyAccJerk_mean_Z
-*.timeDomain_BodyGyro_mean_X
-*.timeDomain_BodyGyro_mean_Y
-*.timeDomain_BodyGyro_mean_Z
-*.timeDomain_BodyGyroJerk_mean_X
-*.timeDomain_BodyGyroJerk_mean_Y
-*.timeDomain_BodyGyroJerk_mean_Z
-*.timeDomain_BodyAccMag_mean
-*.timeDomain_GravityAccMag_mean
-*.timeDomain_BodyAccJerkMag_mean
-*.timeDomain_BodyGyroMag_mean
-*.timeDomain_BodyGyroJerkMag_mean
-*.frequencyDomain_BodyAcc_mean_X
-*.frequencyDomain_BodyAcc_mean_Y
-*.frequencyDomain_BodyAcc_mean_Z
-*.frequencyDomain_BodyAcc_meanFreq_X
-*.frequencyDomain_BodyAcc_meanFreq_Y
-*.frequencyDomain_BodyAcc_meanFreq_Z
-*.frequencyDomain_BodyAccJerk_mean_X
-*.frequencyDomain_BodyAccJerk_mean_Y
-*.frequencyDomain_BodyAccJerk_mean_Z
-*.frequencyDomain_BodyAccJerk_meanFreq_X
-*.frequencyDomain_BodyAccJerk_meanFreq_Y
-*.frequencyDomain_BodyAccJerk_meanFreq_Z
-*.frequencyDomain_BodyGyro_mean_X
-*.frequencyDomain_BodyGyro_mean_Y
-*.frequencyDomain_BodyGyro_mean_Z
-*.frequencyDomain_BodyGyro_meanFreq_X
-*.frequencyDomain_BodyGyro_meanFreq_Y
-*.frequencyDomain_BodyGyro_meanFreq_Z
-*.frequencyDomain_BodyAccMag_mean
-*.frequencyDomain_BodyAccMag_meanFreq
-*.frequencyDomain_BodyBodyAccJerkMag_mean
-*.frequencyDomain_BodyBodyAccJerkMag_meanFreq
-*.frequencyDomain_BodyBodyGyroMag_mean
-*.frequencyDomain_BodyBodyGyroMag_meanFreq
-*.frequencyDomain_BodyBodyGyroJerkMag_mean
-*.frequencyDomain_BodyBodyGyroJerkMag_meanFreq
-*.timeDomain_BodyAcc_std_X
-*.timeDomain_BodyAcc_std_Y
-*.timeDomain_BodyAcc_std_Z
-*.timeDomain_GravityAcc_std_X
-*.timeDomain_GravityAcc_std_Y
-*.timeDomain_GravityAcc_std_Z
-*.timeDomain_BodyAccJerk_std_X
-*.timeDomain_BodyAccJerk_std_Y
-*.timeDomain_BodyAccJerk_std_Z
-*.timeDomain_BodyGyro_std_X
-*.timeDomain_BodyGyro_std_Y
-*.timeDomain_BodyGyro_std_Z
-*.timeDomain_BodyGyroJerk_std_X
-*.timeDomain_BodyGyroJerk_std_Y
-*.timeDomain_BodyGyroJerk_std_Z
-*.timeDomain_BodyAccMag_std
-*.timeDomain_GravityAccMag_std
-*.timeDomain_BodyAccJerkMag_std
-*.timeDomain_BodyGyroMag_std
-*.timeDomain_BodyGyroJerkMag_std
-*.frequencyDomain_BodyAcc_std_X
-*.frequencyDomain_BodyAcc_std_Y
-*.frequencyDomain_BodyAcc_std_Z
-*.frequencyDomain_BodyAccJerk_std_X
-*.frequencyDomain_BodyAccJerk_std_Y
-*.frequencyDomain_BodyAccJerk_std_Z
-*.frequencyDomain_BodyGyro_std_X
-*.frequencyDomain_BodyGyro_std_Y
-*.frequencyDomain_BodyGyro_std_Z
-*.frequencyDomain_BodyAccMag_std
-*.frequencyDomain_BodyBodyAccJerkMag_std
-*.frequencyDomain_BodyBodyGyroMag_std
-*.frequencyDomain_BodyBodyGyroJerkMag_std
+* Data_set
+* Activity_label
+* timeDomain_BodyAcc_mean_X
+  Normalized ([0,1])
+* timeDomain_BodyAcc_mean_Y
+* timeDomain_BodyAcc_mean_Z
+* timeDomain_GravityAcc_mean_X
+* timeDomain_GravityAcc_mean_Y
+* timeDomain_GravityAcc_mean_Z
+* timeDomain_BodyAccJerk_mean_X
+* timeDomain_BodyAccJerk_mean_Y
+* timeDomain_BodyAccJerk_mean_Z
+* timeDomain_BodyGyro_mean_X
+* timeDomain_BodyGyro_mean_Y
+* timeDomain_BodyGyro_mean_Z
+* timeDomain_BodyGyroJerk_mean_X
+* timeDomain_BodyGyroJerk_mean_Y
+* timeDomain_BodyGyroJerk_mean_Z
+* timeDomain_BodyAccMag_mean
+* timeDomain_GravityAccMag_mean
+* timeDomain_BodyAccJerkMag_mean
+* timeDomain_BodyGyroMag_mean
+* timeDomain_BodyGyroJerkMag_mean
+* frequencyDomain_BodyAcc_mean_X
+* frequencyDomain_BodyAcc_mean_Y
+* frequencyDomain_BodyAcc_mean_Z
+* frequencyDomain_BodyAcc_meanFreq_X
+* frequencyDomain_BodyAcc_meanFreq_Y
+* frequencyDomain_BodyAcc_meanFreq_Z
+* frequencyDomain_BodyAccJerk_mean_X
+* frequencyDomain_BodyAccJerk_mean_Y
+* frequencyDomain_BodyAccJerk_mean_Z
+* frequencyDomain_BodyAccJerk_meanFreq_X
+* frequencyDomain_BodyAccJerk_meanFreq_Y
+* frequencyDomain_BodyAccJerk_meanFreq_Z
+* frequencyDomain_BodyGyro_mean_X
+* frequencyDomain_BodyGyro_mean_Y
+* frequencyDomain_BodyGyro_mean_Z
+* frequencyDomain_BodyGyro_meanFreq_X
+* frequencyDomain_BodyGyro_meanFreq_Y
+* frequencyDomain_BodyGyro_meanFreq_Z
+* frequencyDomain_BodyAccMag_mean
+* frequencyDomain_BodyAccMag_meanFreq
+* frequencyDomain_BodyBodyAccJerkMag_mean
+* frequencyDomain_BodyBodyAccJerkMag_meanFreq
+* frequencyDomain_BodyBodyGyroMag_mean
+* frequencyDomain_BodyBodyGyroMag_meanFreq
+* frequencyDomain_BodyBodyGyroJerkMag_mean
+* frequencyDomain_BodyBodyGyroJerkMag_meanFreq
+* timeDomain_BodyAcc_std_X
+* timeDomain_BodyAcc_std_Y
+* timeDomain_BodyAcc_std_Z
+* timeDomain_GravityAcc_std_X
+* timeDomain_GravityAcc_std_Y
+* timeDomain_GravityAcc_std_Z
+* timeDomain_BodyAccJerk_std_X
+* timeDomain_BodyAccJerk_std_Y
+* timeDomain_BodyAccJerk_std_Z
+* timeDomain_BodyGyro_std_X
+* timeDomain_BodyGyro_std_Y
+* timeDomain_BodyGyro_std_Z
+* timeDomain_BodyGyroJerk_std_X
+* timeDomain_BodyGyroJerk_std_Y
+* timeDomain_BodyGyroJerk_std_Z
+* timeDomain_BodyAccMag_std
+* timeDomain_GravityAccMag_std
+* timeDomain_BodyAccJerkMag_std
+* timeDomain_BodyGyroMag_std
+* timeDomain_BodyGyroJerkMag_std
+* frequencyDomain_BodyAcc_std_X
+* frequencyDomain_BodyAcc_std_Y
+* frequencyDomain_BodyAcc_std_Z
+* frequencyDomain_BodyAccJerk_std_X
+* frequencyDomain_BodyAccJerk_std_Y
+* frequencyDomain_BodyAccJerk_std_Z
+* frequencyDomain_BodyGyro_std_X
+* frequencyDomain_BodyGyro_std_Y
+* frequencyDomain_BodyGyro_std_Z
+* frequencyDomain_BodyAccMag_std
+* frequencyDomain_BodyBodyAccJerkMag_std
+* frequencyDomain_BodyBodyGyroMag_std
+* frequencyDomain_BodyBodyGyroJerkMag_std
