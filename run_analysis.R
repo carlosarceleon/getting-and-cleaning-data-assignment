@@ -102,4 +102,4 @@ tidy_data <- ddply(merged_data, c('Data_set','Activity_label'), numcolwise(mean)
 ########## Tidy data text file ########### 
 ########################################## 
 #
-write.table(tidy_data,file="Tidy_data.txt")
+write.table(tidy_data,file="Tidy_data.txt",row.name=FALSE)
