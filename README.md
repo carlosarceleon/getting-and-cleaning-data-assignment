@@ -21,7 +21,7 @@ Finally, the data is made tidy using the `ddply` function, and written to a text
 
 Running the single script "run_analysis.R" is sufficient to create the tidy data text file and runs all necessary procedures to successfully do that.
 
-The location of the original data must be a folder level down of the location of this script, under a folder called "/UCI HAR Dataset".
+The location of the original data must be in the PWD, under a folder called "/UCI HAR Dataset".
 
 Required files inside this folder are:
 * features.txt
