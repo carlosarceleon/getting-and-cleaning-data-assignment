@@ -95,4 +95,11 @@ tidy_data <- ddply(merged_data, c('Data_set','Activity_label'), numcolwise(mean)
 ################ Code Book ############### 
 ########################################## 
 #
-write.table(colnames(tidy_data), file = "CodeBook.md", row.name = FALSE, quote = FALSE)
+#write.table(colnames(tidy_data), file = "CodeBook.md", row.name = FALSE, quote = FALSE)
+
+#
+########################################## 
+########## Tidy data text file ########### 
+########################################## 
+#
+write.table(tidy_data,file="Tidy_data.txt")
